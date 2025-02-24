@@ -1,6 +1,7 @@
 # Denis Sales Performance  By Region -Dashboard
 
-###Dashboard Link: https://app.powerbi.com/groups/6788b278-8e12-4887-a834-2228de1cc600/reports/c297c8c0-9beb-4ff2-b4b1-90de7ef82548/2f833a310202322e4bce?experience=power-bi&bookmarkGuid=fa2292f2-583e-46c8-bf26-80cd640ce21b
+###Dashboard Link:  https://app.powerbi.com/groups/6788b278-8e12-4887-a834-2228de1cc600/dashboards/b5d0083e-5cba-4bd2-b45b-7d433afd195e?experience=power-bi
+
 ## Problem Statement
 
 Problem Statement: Sales Insights Dashboard with Medallion Architecture in Fabric & Azure
@@ -86,23 +87,14 @@ MOM% Gross Profit = DIVIDE([Total Gross Profit]-[Prev Month Gross Profit],[Prev 
  
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![dashboard_snapo]![Image](https://github.com/user-attachments/assets/992b0bbf-cf9c-4316-a13c-dd9ed3021ebd)
 
  
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload]![Image](https://github.com/user-attachments/assets/184d8d04-179c-4b16-8075-aea707c55224)
 
 # Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
-
-Following inferences can be drawn from the dashboard;
-
-
-
-
-
-
-
